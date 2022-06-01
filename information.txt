@@ -1,0 +1,16 @@
+two methods,,, ipynb files --  
+yahoo finance - took help.. 
+
+
+Method 1 file - manual data enrty
+corresponding output file- OUTPUT_FILE.csv 
+sucessful data extarction except 4 coloumn values. 
+
+
+Method 2 file - data taken from transpose.csv
+oputupt file - output.csv 
+not so sucessful but a good approach.  
+
+
+file.csv - contains coloumn values of symbol 
+transpose.csv - cotain in row value,, did transpose of file.csv
